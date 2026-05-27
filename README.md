@@ -3,7 +3,7 @@
 ## About Me
 - building something in my terminals
 - typing random word
-- watching some anime
+- watch some anime
 - random kid
 
 ---
