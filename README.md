@@ -24,7 +24,9 @@
 ---
 
 ###  My Coding Stats
-![](https://github-readme-stats.vercel.app/api?username=niinomaee&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=niinomaee&theme=meta-dark&hide_border=true" height="180"/>
+</p>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/yXx0iZCQPocAAAAd/animation-inabakumori.gif" width="460">
