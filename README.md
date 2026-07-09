@@ -7,7 +7,7 @@ i hate code
 ###  About Me
 * 💻 Building things in my terminal
 * ⌨️ Typing random words
-* 📺 Watching anime
+* 📺 Watching anime and vtubers
 * random kid
 
 ---
