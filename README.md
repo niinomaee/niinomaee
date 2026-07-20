@@ -27,6 +27,5 @@ i hate code
 
 <p align="center">
   <img src="https://media1.tenor.com/m/yXx0iZCQPocAAAAd/animation-inabakumori.gif" width="460"> </br>
-  <img src="https://osu-stats-card-five.vercel.app/api/osu-card?user=soto%20lamongan"> </br>
   <img src="https://komarev.com/ghpvc/?username=niinomaee&icon=0&color=blue">
 </p>
